@@ -68,4 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Adam Kane is a Lecturer/Assistant Professor in the School of Biology and Environmental Science
+Adam Kane is a Lecturer/Assistant Professor in the School of Biology and Environmental Science at University College Dublin. 
