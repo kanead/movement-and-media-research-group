@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include media portrayals and human-wildlife conflict and documentary repre of nature. 
+bio: My research interests include media portrayals and human-wildlife conflict and documentary repre of nature.
 
 interests:
   - Artificial Intelligence
