@@ -20,7 +20,7 @@ content:
     - Researchers
     - Grad Students
     - Administration
-    - Visitors
+  #  - Visitors
     - Alumni
 design:
   show_interests: false

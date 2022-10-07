@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: adam.kane@ucd.ie
+    link: mailto:adam.kane@ucd.ie
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adamdkane
