@@ -1,7 +1,8 @@
 ---
-title: 'An example preprint / working paper'
+title: 'Patching Science – amending the literature through version control'
 authors:
   - admin
+  - Bawan Amin
 date: '2022-04-014T00:00:00Z'
 doi: ''
 
