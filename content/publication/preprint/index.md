@@ -2,11 +2,11 @@
 title: 'An example preprint / working paper'
 authors:
   - admin
-date: '2019-04-07T00:00:00Z'
+date: '2022-04-014T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-10-08T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The ideal of self-correction in science is not well served by the current culture and system surrounding amendments to published literature. Here we report on a survey (N = 132) that highlights academics’ dissatisfaction with the status quo and their support for an alternative approach. We then describe our view of how amendments could and should work by drawing on the idea of an author-led version control system. Here authors would include a link in their published manuscripts to an updatable website (e.g. a GitHub repository or similar) that could be disseminated in the event of any amendment. Such a system is already in place for computer code and, as such, requires nothing but buy-in from the scientific community - a community that is already evolving towards various open science frameworks. This would remove a number of frictions that discourage amendments thus leading to an improved scientific literature and a healthier academic climate.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
@@ -30,7 +30,7 @@ featured: false
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2022.04.13.487348v1.full.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
