@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'adam.kane@ucd.ie'
+    link: adam.kane@ucd.ie
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adamdkane
@@ -68,4 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Adam Kane is a Lecturer/Assistant Professor in the School of Biology and Environmental Science at University College Dublin. 
+Adam Kane is a Lecturer/Assistant Professor in the School of Biology and Environmental Science at University College Dublin.
