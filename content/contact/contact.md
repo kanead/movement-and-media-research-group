@@ -19,8 +19,8 @@ content:
   phone: 00 353 1 716 2082
   address:
     street: Room 143, O'Brien Science Centre
-    city: Dublin
-    region:
+    city: University College Dublin
+    region: Dublin 4
     postcode:
     country: Ireland
     country_code: IE
