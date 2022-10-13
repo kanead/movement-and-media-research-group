@@ -29,7 +29,7 @@ education:
     - course: MSc in Science Communication
       institution: Dublin City University
       year: 2010
-    - course: BSc in Zoology
+    - course: BSc(Hons) in Zoology
       institution: University College Dublin
       year: 2007
 
