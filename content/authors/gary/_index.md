@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gary is conducting his research MSc in the School of Biology and Environmental Science at University College Dublin where he is investigating the movement ecology of Eurasian curlew in Ireland with a focus on home range analysis.
+bio: Gary is conducting his research MSc in the School of Biology and Environmental Science at University College Dublin where he is investigating the movement ecology of Eurasian curlew in Ireland with a focus on home range analysis and habitat selection. 
 
 interests:
   - Movement ecology (birds)
