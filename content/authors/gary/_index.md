@@ -25,17 +25,29 @@ interests:
   - Computational Linguistics
   - Conservation biology of the Eurasian curlew
 
-#education:
-#  courses:
+education:
+  courses:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-#    - course: MSc in Climate Change: Science and Impacts
-#      institution: University College Dublin
-#      year: 2021
-#    - course: BA Mod Hon in Mathematics
-#      institution: Trinity College Dublin
-#      year: 1982
+    - course: MSc in Climate Change
+      institution: University College Dublin
+      year: 2021
+    - course: BA Mod Hon in Mathematics
+      institution: Trinity College Dublin
+      year: 1982
+
+  #    education:
+  #      courses:
+      #    - course: PhD in Artificial Intelligence
+      #      institution: Stanford University
+      #      year: 2012
+  #        - course: MSc in Conservation Science
+  #          institution: Imperial College London
+  #          year: 2019
+  #        - course: MA Hons in Ancient History and Archaeology
+  #          institution: University of St Andrews
+  #          year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
