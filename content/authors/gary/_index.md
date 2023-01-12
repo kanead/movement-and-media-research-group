@@ -22,7 +22,6 @@ bio: Gary is conducting his research MSc in the School of Biology and Environmen
 
 interests:
   - Movement ecology (birds)
-  - Computational Linguistics
   - Conservation biology of the Eurasian curlew
 
 education:
