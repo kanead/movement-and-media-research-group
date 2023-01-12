@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Media and Movement  
+  Media & Movement  
   Research Group
 hero_media: welcome.jpg
 design:
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Media and Movement Research Group** is based at University College Dublin.
+The **Media & Movement Research Group** is based at University College Dublin.
