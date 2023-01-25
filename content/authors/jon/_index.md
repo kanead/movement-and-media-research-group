@@ -21,13 +21,14 @@ organizations:
 bio: I'm investigating the movement ecology of urban gulls.
 
 interests:
-  - Birding
+  - Ornithology
+  - Movement Ecology
   - Conservation
   - Human-wildlife conflict
 
 education:
   courses:
-    - course: MRes Aquatic Ecology and Conservation,
+    - course: MRes Aquatic Ecology and Conservation
       institution: Swansea University, Wales
       year: 2012
     - course: BSc Biological Science (with Honours)
